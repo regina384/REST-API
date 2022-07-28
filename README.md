@@ -1,7 +1,7 @@
 # uas_regina
 
 link youtube https://youtu.be/ZIQ90o_ErMU
-A new Flutter project.
+
 
 ## Getting Started
 
